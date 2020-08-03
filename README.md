@@ -1,1 +1,1 @@
-# educative-html-css
+# HTML & CSS Fundamentals: Learn to Build a One Page Website
